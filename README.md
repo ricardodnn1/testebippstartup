@@ -1,4 +1,4 @@
-# Para executar o aplicativo do Teste, siga o passos listados abaixo:
+# Para executar o aplicativo do Teste, siga os passos listados abaixo:
 
 No teste não foi utilizado Mobx e nem DIO, que são bibliotecas para facilitar o desenvolvimento reativo, por conta que se trata de um teste muito simples no qual faz a leitura de um arquivo JSON localhost.
 
