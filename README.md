@@ -6,7 +6,8 @@ No teste não foi utilizado Mobx e nem DIO, que são bibliotecas para facilitar 
 
 2º: Abra o projeto no Visual Studio Code ou Android Studio.
 
-3º: Caso utilize o Visual Studio Code, inicie o emulador ou conecte seu smartphone via USB, após isso execute o comando no terminal do VS Code: flutter run Com o projeto aberto no Android Studio para exeutar basta botão RUN ou precione Shift + F10
+3º: Caso utilize o Visual Studio Code, inicie o emulador ou conecte seu smartphone via USB, após isso execute o comando no terminal do VS Code: "flutter run"                 
+Com o projeto aberto no Android Studio para exeutar basta botão RUN ou precione Shift + F10
 
  
  
